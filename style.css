@@ -1,0 +1,103 @@
+.notfound{
+        font-family: 'Inconsolata', monospace;
+        position: absolute;
+        width: 133px;
+        height: 25px;
+        left: 77px;
+        top: 40px;
+
+        font-family: 'Inconsolata';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 24px;
+        line-height: 25px;
+        letter-spacing: -0.08em;
+        text-transform: uppercase;
+
+    color: #333333;
+    }
+
+.paragrafodomeio{
+        position: absolute;
+        width: 586px;
+        height: 190px;
+        left: 735px;
+        top: 265px;
+
+        font-family: 'Space Mono';
+        font-style: normal;
+        font-weight: 700;
+        font-size: 64px;
+        line-height: 95px;
+        letter-spacing: -0.035em;
+
+        /* Gray 1 */
+
+        color: #333333;
+
+    }
+.embaixodopagrafo{
+    position: absolute;
+    width: 381px;
+    height: 108px;
+    left: 736px;
+    top: 491px;
+
+    font-family: 'Space Mono';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+    letter-spacing: -0.035em;
+
+    /* Gray 2 */
+
+    color: #4F4F4F;
+}
+.espantalho{
+    width:539.22ps ;
+    height: 447.43px;
+    top: 265px;
+    left: 77px;    
+
+    position: absolute;
+    left: 5.35%;
+    right: 57.21%;
+    top: 24.54%;
+    bottom: 34.03%;
+}
+button{
+    Width: 216px;
+    Height : 68px;
+    Top : 663px;
+    Left : 740px;
+    position: absolute;
+    width: 216px;
+    height: 68px;
+    left: 740px;
+    top: 663px;
+    background-color: #333333;
+    color: white;
+    font-family: 'Space Mono';
+    
+}
+.criador{
+    font-family: 'Montserrat', sans-serif;
+    position: absolute;
+    width: 287px;
+    height: 17px;
+    left: 577px;
+    top: 1039px;
+
+    font-family: 'Montserrat';
+    font-style: italic;
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    color: #BDBDBD;
+    width: 287px;
+    height: 17px;
+    top: 1039px;
+    left: 577px;
+}
